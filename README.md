@@ -10,7 +10,7 @@ Este repositório contém os arquivos necessários para meu site de portfólio. 
 
 O site está hospedado no GitHub Pages e pode ser acessado através do seguinte link:
 
-[Portfólio João Vítor](https://joaovitor.github.io)
+[Portfólio João Vítor](https://joaovitormelosantos.github.io/portfolio/)
 
 ## Conteúdo do Projeto
 
